@@ -2,6 +2,8 @@
 
 Check the status of the Apple Developer Center from the command-line.
 
+![ADC](http://i.imgur.com/of9KFnw.gif)
+
 ## Installation
 
 Add this line to your application's Gemfile:
